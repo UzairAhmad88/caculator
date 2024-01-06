@@ -1,2 +1,3 @@
 # caculator
-this is my forst try to learn it.
+This is my first try to learn it.
+Author: Uzair Ahmad
